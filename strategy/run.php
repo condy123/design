@@ -1,5 +1,5 @@
 <?php
-//客户端 用户
+
 //策略模式
 require "Lession.php";
 require "L.class.php";

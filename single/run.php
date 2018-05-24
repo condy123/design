@@ -8,7 +8,6 @@
 
 require 'Single.php';
 
-
 // 开始
 Single::getInstance();
 Single::getInstance();

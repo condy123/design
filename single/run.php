@@ -8,7 +8,7 @@
 
 require 'Single.php';
 
-// 开始
+// 开始 单例模式
 Single::getInstance();
 Single::getInstance();
 Single::getInstance();

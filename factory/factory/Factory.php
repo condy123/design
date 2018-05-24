@@ -12,7 +12,8 @@
 class User
 {
     private $username;
-    public function __construct($username) {
+    public function __construct($username)
+    {
         $this->username = $username;
     }
 
@@ -23,7 +24,8 @@ class User
 
 class userFactory
 {
-    static public function createUser() {
+    static public function createUser()
+    {
         return new User('MeeQi');
     }
 }

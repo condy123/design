@@ -1,7 +1,8 @@
 <?php
 //策略模式
 //课程类
-class Lession{
+class Lession
+{
     //课程购买人数
     private $_num;
     //策略属性,保存具体策略角色对象的引用，例如ENGLISH或者MATH

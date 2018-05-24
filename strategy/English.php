@@ -1,5 +1,6 @@
 <?php
-class English extends L{
+class English extends L
+{
     private $price = 200;
     public function cost(Lession $_lession)
     {
